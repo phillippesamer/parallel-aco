@@ -1,3 +1,17 @@
+/**
+ *  \file myTSPSolution.java
+ *
+ *  TSP client implementing the framework interface for each candidate solution to the problem.
+ * 
+ *  "Map Ants, Reduce Work": a research project regarding a MapReduce inspired
+ *  parallel framework for the Ant Colony Optimization (ACO) algorithm, under
+ *  development at UFMG (Universidade Federal de Minas Gerais, Brazil).
+ *
+ *  \author Phillippe Samer <phillippes@gmail.com>
+ *
+ *  \date 16.01.2011
+ */
+
 public class myTSPSolution implements Solution<Long>
 {
     public int[] solution;

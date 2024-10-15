@@ -1,3 +1,17 @@
+/**
+ *  \file myTSPDriver.java
+ *
+ *  TSP client extending the core framework class, managing job setup and execution.
+ *
+ *  "Map Ants, Reduce Work": a research project regarding a MapReduce inspired
+ *  parallel framework for the Ant Colony Optimization (ACO) algorithm, under
+ *  development at UFMG (Universidade Federal de Minas Gerais, Brazil).
+ *
+ *  \author Phillippe Samer <phillippes@gmail.com>
+ *
+ *  \date 16.01.2011
+ */
+
 import java.util.Collection;
 import java.util.Vector;
 

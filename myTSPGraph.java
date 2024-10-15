@@ -1,3 +1,17 @@
+/**
+ *  \file myTSPGraph.java
+ *
+ *  TSP client implementing the framework interface for reading the problem graph.
+ *
+ *  "Map Ants, Reduce Work": a research project regarding a MapReduce inspired
+ *  parallel framework for the Ant Colony Optimization (ACO) algorithm, under
+ *  development at UFMG (Universidade Federal de Minas Gerais, Brazil).
+ *
+ *  \author Phillippe Samer <phillippes@gmail.com>
+ *
+ *  \date 16.01.2011
+ */
+
 import java.io.File;
 import java.io.IOException;
 import java.util.Formatter;
